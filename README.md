@@ -12,6 +12,6 @@
 <h5>3. Developing a Core plugin for one of the most popular Minecraft server types</h5>
 <h2><br>My Statistics: </h2>
 <h6>Disclaimer: The statistics shown here are not accurate due to 90% of my repositories being private, it is only a rough estimation</h6>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nightshadecode"></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nightshadecode"></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nightshadecode"></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nightshadecode&show_icons=true&theme=radical"></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nightshadecode&show_icons=true&theme=radical"></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nightshadecode&theme=radical"></p>

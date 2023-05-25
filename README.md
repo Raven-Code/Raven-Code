@@ -9,6 +9,7 @@
 <h2><br>I am currently learning:</h2>
 <h5>1. Making improvements to the technical society</h5>
 <h5>2. Ethical Hacking & Gamebreaking in C</h5>
+<h5>3. Developing a Core plugin for one of the most popular Minecraft server types</h5>
 <h2><br>My Statistics: </h2>
 <h6>Disclaimer: The statistics shown here are not accurate due to 90% of my repositories being private, it is only a rough estimation</h6>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nightshadecode"></p>

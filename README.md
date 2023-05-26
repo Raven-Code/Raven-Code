@@ -2,7 +2,7 @@
 <h3 align="center">A developer who eats and sleeps on code</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=nightshadecode&label=Profile%20views&color=0e75b6"></p>
 <h2><br>My Motto:</h2>
-<h4>Code it yourself if you think a feature is missing or needs to be improved, whether it being a game or a social media platform.</h4>
+<h4>Code it yourself if you think a feature is missing or needs to be improved, whether it is a game or a social media platform.</h4>
 <h2><br>My trophies:<h2>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=nightshadecode&show_icons=true&theme=radical"></p>
 <h2><br>My Proficient Language & Tools:</h2>

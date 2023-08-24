@@ -21,4 +21,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=raven-code&show_icons=true&theme=midnight-purple&count_private=true&ring_color=ffdcf7&hide_border=true">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=raven-code&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&background=45%2C0000FF80%2CFF76C780">
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=raven-code&layout=compact"> -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Harlok&layout=compact&theme=midnight-purple">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iDevelopThings&layout=compact&theme=midnight-purple">

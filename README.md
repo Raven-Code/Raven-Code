@@ -10,7 +10,7 @@
 <br>
 <h2><br>IDEs I use:</h2>
 <h4><a href="https://code.visualstudio.com">1. Visual Studio Code</a></h5>
-<h4><a href="https://www.jetbrains.com/idea/buy/?section=commercial&billing=yearly">CLion, DataGrip, IntelliJ IDEA Ultimate, PhpStorm, PyCharm, WebStorm)</a></h5>
+<h4><a href="https://www.jetbrains.com/idea/buy/?section=commercial&billing=yearly">CLion, DataGrip, IntelliJ IDEA Ultimate, PhpStorm, PyCharm, WebStorm</a></h5>
 <h2><br>I am currently learning:</h2>
 <h5>1. Making improvements to the technical society</h5>
 <h5>2. Ethical Hacking & Gamebreaking in C</h5>
